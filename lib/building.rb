@@ -18,4 +18,5 @@ class Building < Apartment
 # * has a total square footage, calculated from all apartments
 # * has a total monthly revenue, calculated from all apartment rents
 # * has a list of tenants, pulled from the tenant lists of all apartments
-# * has a method to retrieve all apartments grouped by credit rating (bonus: sort the groups by credit score)
+# * has a method to retrieve all apartments grouped by credit rating
+#(bonus: sort the groups by credit score)
