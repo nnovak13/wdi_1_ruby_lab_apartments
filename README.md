@@ -33,3 +33,5 @@ In this lab we'll be writing a collection of Ruby classes for a real estate app 
   * 660 or higher is "good"
   * 560 or higher is "mediocre"
   * anything lower is "bad"
+
+#raise "herpaderp here's my error"
